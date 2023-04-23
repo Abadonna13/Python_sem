@@ -13,5 +13,4 @@ def mult(a,b):
 
 a = int(input("Введите А: "))
 b = int(input("Введите В: "))
-
 print(mult(a,b))
